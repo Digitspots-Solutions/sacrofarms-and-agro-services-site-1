@@ -1,0 +1,42 @@
+{
+  "businessName": "SacroFarms and Agro Services",
+  "industry": "Agricultural Manufacturing",
+  "tone": "Professional and Trustworthy",
+  "tagline": "Cultivating Excellence in Agricultural Manufacturing",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "Welcome to SacroFarms and Agro Services\n\nYour Trusted Partner in Agricultural Manufacturing Excellence\n\nAt SacroFarms, we combine modern manufacturing techniques with Nigeria's rich agricultural heritage to deliver quality agro products and services. Based in Benin City, Edo State, we are committed to supporting Nigeria's agricultural value chain with innovative solutions and reliable service.",
+      "imagePrompt": "Wide aerial view of a modern agricultural manufacturing facility in rural Nigeria, with green farmlands stretching into the distance, processing buildings with metallic roofs, neatly arranged crop fields, workers in the background, bright sunny day with blue skies, professional industrial photography, vibrant green and earth tones, high quality 4K resolution",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "About SacroFarms and Agro Services\n\nSacroFarms and Agro Services is a leading agricultural manufacturing company strategically located in Ikpoba-Okha Local Government Area of Edo State. We are dedicated to transforming Nigeria's agricultural sector through quality manufacturing, processing, and value-added services.\n\nOur state-of-the-art facility at KM4 Utesi-Obagie Road, off Benin-Abraka Highway, serves as a hub for agricultural innovation and excellence. We work closely with local farmers and agricultural stakeholders to ensure sustainable practices and superior product quality.\n\nWith a commitment to food security and agricultural advancement, SacroFarms combines traditional farming wisdom with modern manufacturing capabilities to meet the evolving needs of Nigeria's agricultural market.\n\nOur Mission: To provide exceptional agricultural manufacturing services that enhance productivity, ensure quality, and contribute to Nigeria's food security and economic growth.",
+      "imagePrompt": "Interior of a clean, modern agricultural processing facility in Nigeria, with stainless steel equipment, quality control stations, workers in protective gear inspecting products, natural lighting through large windows, organized warehouse with packaged agricultural products, professional corporate atmosphere, warm lighting, realistic industrial photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Our Agricultural Manufacturing Services\n\nAgricultural Processing\nWe provide comprehensive processing services for various agricultural products, utilizing modern equipment and quality control measures to ensure optimal product standards and shelf life.\n\nCrop Value Addition\nOur value-added services transform raw agricultural produce into market-ready products, increasing profitability for farmers and ensuring consistent quality for consumers.\n\nAgro Product Manufacturing\nWe manufacture a range of agricultural products designed to meet local and regional market demands, maintaining the highest standards of quality and safety.\n\nFarm Input Supply\nSacroFarms supplies quality agricultural inputs including seeds, fertilizers, and farming equipment to support productive and sustainable farming practices.\n\nAgricultural Consultation\nOur experienced team provides expert consultation services on agricultural best practices, crop management, and modern farming techniques to enhance productivity.\n\nStorage and Logistics\nWe offer secure storage facilities and efficient logistics solutions for agricultural products, ensuring proper handling from farm to market.",
+      "imagePrompt": "Grid layout showing different agricultural manufacturing activities: workers processing crops, quality inspection of agricultural products, modern storage silos, packaged farm products on shelves, farmers receiving consultation, delivery trucks being loaded with produce, bright professional photography, Nigerian agricultural setting, clean and organized environment",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Get in Touch with SacroFarms\n\nReady to partner with us or learn more about our agricultural manufacturing services? We're here to help.\n\nVisit Our Facility:\nKM4 UTESI-OBAGIE ROAD, OFF BENIN-ABRAKA HIGH WAY, OBAGIE NOKENKPORO IKPA-OKHA L. G. A., BENIN CITY, BENIN, EDO STATE\n\nCall Us:\n0803 492 2327\n\nLocation:\nIkpoba-Okha, Edo State, Nigeria\n\nBusiness Hours:\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\nSunday: Closed\n\nWhether you're a farmer looking for processing services, a business seeking quality agricultural products, or an investor interested in Nigeria's agricultural sector, SacroFarms and Agro Services is your reliable partner for excellence in agricultural manufacturing.\n\nContact us today and experience the SacroFarms difference.",
+      "imagePrompt": "Professional contact page imagery showing the entrance of SacroFarms facility with clear signage, a friendly Nigerian receptionist at a modern desk with computer, phone and documents, visitors in consultation room visible in background, map of Edo State on wall, bright welcoming office environment, natural daylight, corporate professional photography, 4K quality",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08034922327",
+    "email": "info@sacrofarms.com",
+    "address": "KM4 UTESI-OBAGIE ROAD, OFF BENIN-ABRAKA HIGH WAY, OBAGIE NOKENKPORO IKPA-OKHA L. G. A., BENIN CITY, BENIN, EDO STATE",
+    "whatsapp": "https://wa.me/2348034922327"
+  }
+}
